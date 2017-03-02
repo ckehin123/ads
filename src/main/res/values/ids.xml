@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fl_ads_id" type="id"></item>
+    <item name="ads_id" type="id"></item>
+    <item name="ads_close_btn" type="id"></item>
+</resources>
